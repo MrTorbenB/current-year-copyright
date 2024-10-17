@@ -1,12 +1,11 @@
 <?php
 /*
 Plugin Name: Current Year Shortcode
-Plugin URI:  https://example.com
+Plugin URI: https://torbenb.info/download/
 Description: Zeigt das aktuelle Jahr mit dem Shortcode [current_year] an, ideal für dynamische Copyright-Hinweise.
-Version:     1.0
-Author:      Dein Name
-Author URI:  https://example.com
-License:     GPLv2 or later
+Version: 1.0
+Author: TorbenB
+Author URI: https://torbenb.info/
 */
 
 // Funktion, um das aktuelle Jahr zurückzugeben
